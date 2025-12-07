@@ -1,0 +1,16 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1765012648.531827,
+    "data": {
+      "resident_id": "2955d910-c262-45fb-8b35-6ea81ccd7063",
+      "name": "Arjun Kumar",
+      "mode": "face",
+      "success": true,
+      "ts": 1765012648.531827
+    },
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "354f6d7c1751874648d9ffe5f8719d0cb52eb09477e7fe9952b0cf3409c9a53b",
+    "signature": "cabace551590ce5f7144ded4d629d7a0269e48ad3bcbcd733ad14c83c6cef693"
+  }
+]
